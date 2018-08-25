@@ -1,5 +1,8 @@
 package primerosEjer;
 import java.util.Scanner;
+import java.text.DecimalFormat;
+
+
 public class LongCircle {
 
 	public static void main(String[] args) {
@@ -16,8 +19,15 @@ public class LongCircle {
 		r = in.nextDouble();
 		
 		l = 2 * Math.PI * r;
+
 		
 		System.out.println("the long of your cicle is " + l);
+		
+		//trying with double format
+		
+		DecimalFormat df = new DecimalFormat("###.##");
+		
+		System.out.println("the long of your cicle is " + df.format(l));
 		
 	}
 
