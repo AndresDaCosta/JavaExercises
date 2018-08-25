@@ -29,7 +29,7 @@ public class DiagonalMatriz {
 			
 			
 		}
-		/////hvdkfljhvldfkjhvflkjdhvkh
+		
 		
 		for (int z = 0; z < 5; z++) {
 			
