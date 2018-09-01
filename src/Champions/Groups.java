@@ -2,6 +2,9 @@ package Champions;
 
 public class Groups {
 
+	/*
+	 * groups class
+	 * */
 	
 	private String team1;
 	private String team2;

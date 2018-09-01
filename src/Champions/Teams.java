@@ -3,7 +3,7 @@ package Champions;
 public class Teams {
 	
 	/*
-	 * this class creates the objets of the teams that participate on the champios leage
+	 * thiss class creates the objets of the teams that participate on the champios leage
 	 * */
 	
 	private String name;

@@ -17,6 +17,8 @@ public class Champions {
 		
 		for (int i = 0; i < 32; i ++) {
 			
+			//creates the total draw
+			
 			System.out.println("please intert the name of the team.");
 			
 			Teams team = new Teams(in.nextLine());
