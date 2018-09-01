@@ -22,7 +22,10 @@ public class Objects {
 		System.out.println(newcar.getModel());
 		System.out.println(newcar.getHorse());
 		
-
+		newcar.setBrand("mercedes");
+		
+		System.out.println(newcar.getBrand());
+		
 	}
 
 }
